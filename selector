@@ -4,5 +4,15 @@
   <head>
     <meta charset="utf-8">
     <title>selectors</title>
+   <style>
+   p{
+   color: red
+   }
+  </style> 
   </head>
+  <body>
+  <section>
+  <p>this is my section</p>
+  </section>
+  </body>
 </html>
