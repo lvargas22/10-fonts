@@ -1,18 +1,18 @@
 <!Doctype html>
 
-<html>
+<html lang= "en">
   <head>
-    <meta charset="utf-8">
-    <title>selectors</title>
-   <style>
-   p{
-   color: red
-   }
-  </style> 
+  <meta charset="utf8">
+  <title>css selectors</title>
+  <style>
+    p{
+      Color:red
+    }
+  </style>
   </head>
   <body>
-  <section>
-  <p>this is my section</p>
-  </section>
+    <section>
+      <p>this is my section</p>
+    </section>
   </body>
 </html>
