@@ -2,15 +2,15 @@
 
 <html lang= "en">
   <head>
-  <meta charset="utf8">
-  <title>css selectors</title>
-  <style>
+    <meta charset="utf8">
+    <title>css selectors</title>
+    <style>
     p{
       Color:red
     }
-  </style>
+    </style>
   </head>
-  <body>
+    <body>
     <section>
       <p>this is my section</p>
     </section>
